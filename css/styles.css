@@ -1,0 +1,97 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: #F4F1F1;
+}
+
+/* LOGO */
+
+.logo{
+	margin-top: 123px;
+	margin-bottom: 24px;
+}
+
+.logo img{
+	width: 270px;
+	height: 62px;
+	vertical-align: middle;
+}
+
+/* END LOGO*/
+
+
+/*  FORMULAIRE DE SAISIE*/
+.form{
+	width: 446px;
+	height: 38px;
+
+	background: #FFFFFF;
+	border: 1px solid #C4C4C4;
+	box-sizing: border-box;
+	border-radius: 3px;
+	margin-bottom: 18px;
+}
+
+.form input::placeholder{
+	width: 114px;
+	height: 18px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 18px;	
+}
+
+/*  END FORMULAIRE DE SAISIE*/
+
+
+/* BUTTON*/
+
+.btn{
+	width: 103px;
+	height: 36px;
+
+	background: #9B9B9E;
+	border: 1px solid #007BFF;
+	box-sizing: border-box;
+	border-radius: 6px;
+	margin-bottom: 81px;
+}
+
+	/* BTN LINK */
+
+	a{
+		width: 53px;
+		height: 19px;
+
+		font-family: Roboto;
+		font-style: normal;
+		font-weight: 500;
+		font-size: 15px;
+		line-height: 18px;
+
+		color: #FFFFFF;
+	}
+
+	a:hover{
+		text-decoration: none;
+		color: #FFFFFF;
+	}
+
+/* END BUTTON*/
+
+/* END FOOTER*/
+.footer{
+	width: 199px;
+	height: 18px;
+
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	line-height: 14px;
+
+	color: #6C757D;
+}
+/* END FOOTER*/
